@@ -1,0 +1,36 @@
+
+*{
+ margin:0px;
+ padding:0px;
+}
+
+body{
+	background-color:#2980b9;
+}
+
+
+#corpoLogin{
+	width:45%;
+	height:60%;
+	
+	margin:7% auto;
+	background-color:white;
+}
+#banner{
+	width:50%;
+	height:100%;
+	background-color:black;
+	float:right;
+}
+	
+#loginArea{
+	width:500px;
+	text-align:center;
+	padding:5px;
+}
+
+
+#loginArea input{
+	width:200px;
+	height:30px;
+}	
